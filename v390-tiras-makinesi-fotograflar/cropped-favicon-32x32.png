@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="tr" prefix="og: https://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<script data-cfasync="false" data-ilm-internal="1" data-no-defer="1" data-no-minify="1" data-no-optimize="1" id="ilm-consent-mode">
+window.dataLayer = window.dataLayer || [];
+window.gtag = window.gtag || function(){ window.dataLayer.push(arguments); };
+(function () {
+	var c = null;
+	try {
+		var m = document.cookie.match(new RegExp('(?:^|; )' + "ilm_cookie_consent" + '=([^;]*)'));
+		if (m) { c = JSON.parse(decodeURIComponent(m[1])); if (!c || c.version !== "1.0") { c = null; } }
+	} catch (e) { c = null; }
+	var g = function (v) { return v ? 'granted' : 'denied'; };
+	window.gtag('consent', 'default', {
+		ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied',
+		analytics_storage: 'denied', functionality_storage: 'denied', personalization_storage: 'denied',
+		security_storage: 'granted', wait_for_update: 500
+	});
+	window.gtag('set', 'ads_data_redaction', true);
+	if (c) {
+		window.gtag('consent', 'update', {
+			ad_storage: g(c.marketing), ad_user_data: g(c.marketing), ad_personalization: g(c.marketing),
+			analytics_storage: g(c.analytics), functionality_storage: g(c.preferences), personalization_storage: g(c.preferences)
+		});
+	}
+})();
+</script>
+
+<!-- Rank Math&#039;a Göre Arama Motoru Optimizasyonu - https://rankmath.com/ -->
+<title>Page Not Found - Teknodayım</title>
+<meta name="robots" content="follow, noindex"/>
+<meta property="og:locale" content="tr_TR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Page Not Found - Teknodayım" />
+<meta property="og:site_name" content="Teknodayım" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page Not Found - Teknodayım" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Corporation","@id":"https://www.teknodayim.com/#organization","name":"Teknoday\u0131m","url":"https://www.teknodayim.com","logo":{"@type":"ImageObject","@id":"https://www.teknodayim.com/#logo","url":"https://www.teknodayim.com/wp-content/uploads/2023/10/teknodayim-logo.png","contentUrl":"https://www.teknodayim.com/wp-content/uploads/2023/10/teknodayim-logo.png","caption":"Teknoday\u0131m","inLanguage":"tr","width":"707","height":"329"}},{"@type":"WebSite","@id":"https://www.teknodayim.com/#website","url":"https://www.teknodayim.com","name":"Teknoday\u0131m","alternateName":"Teknoday\u0131m","publisher":{"@id":"https://www.teknodayim.com/#organization"},"inLanguage":"tr"},{"@type":"WebPage","@id":"#webpage","url":"","name":"Page Not Found - Teknoday\u0131m","isPartOf":{"@id":"https://www.teknodayim.com/#website"},"inLanguage":"tr"}]}</script>
+<!-- /Rank Math WordPress SEO eklentisi -->
+
+<link rel="alternate" type="application/rss+xml" title="Teknodayım &raquo; akışı" href="https://www.teknodayim.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Teknodayım &raquo; yorum akışı" href="https://www.teknodayim.com/comments/feed/" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+
+<link rel='stylesheet' id='partial-payment-blocks-integration-css' href='https://www.teknodayim.com/wp-content/plugins/woo-wallet/build/partial-payment/style-index.css?ver=1.7.3' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://www.teknodayim.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.2.1' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://www.teknodayim.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.2.1' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://www.teknodayim.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.2.1' media='all' />
+<style id="woocommerce-inline-inline-css">
+.woocommerce form .form-row .required { visibility: visible; }
+/*# sourceURL=woocommerce-inline-inline-css */
+</style>
+<link rel='stylesheet' id='teknodayim-upsell-popup-css' href='https://www.teknodayim.com/wp-content/plugins/teknodayim-upsell-popup/assets/upsell.css?ver=1.4.2' media='all' />
+<link rel='stylesheet' id='td-theme-style-css' href='https://www.teknodayim.com/wp-content/themes/teknodayim-theme/style.css?ver=1.3.0.1791314483' media='all' />
+<link rel='stylesheet' id='td-theme-main-css' href='https://www.teknodayim.com/wp-content/themes/teknodayim-theme/assets/css/main.css?ver=1.3.0.1791314483' media='all' />
+<link rel='stylesheet' id='td-theme-header-css' href='https://www.teknodayim.com/wp-content/themes/teknodayim-theme/assets/css/header.css?ver=1.3.0.1791314483' media='all' />
+<link rel='stylesheet' id='td-theme-footer-css' href='https://www.teknodayim.com/wp-content/themes/teknodayim-theme/assets/css/footer.css?ver=1.3.0.1791314483' media='all' />
+<link rel='stylesheet' id='td-theme-woocommerce-css' href='https://www.teknodayim.com/wp-content/themes/teknodayim-theme/assets/css/woocommerce.css?ver=1.3.0.1791314483' media='all' />
+<link rel='stylesheet' id='td-theme-responsive-css' href='https://www.teknodayim.com/wp-content/themes/teknodayim-theme/assets/css/responsive.css?ver=1.3.0.1791314483' media='all' />
+<link rel='stylesheet' id='ilm-frontend-css' href='https://www.teknodayim.com/wp-content/plugins/iyzico-legal-manager/assets/css/frontend.css?ver=1.0.2.1790073845' media='all' />
+<style id="ilm-frontend-inline-css">
+.ilm-scope,.ilm-cookie-banner,.ilm-cookie-modal,.ilm-cookie-fab,.ilm-doc-modal,.ilm-checkout-consent,.ilm-refund-form{--ilm-primary:#2563eb;}.ilm-payment-logos{--ilm-logo-height:28px;}
+/*# sourceURL=ilm-frontend-inline-css */
+</style>
+<script id="jquery-core-js" src="https://www.teknodayim.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://www.teknodayim.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script data-wp-strategy="defer" defer id="wc-jquery-blockui-js" src="https://www.teknodayim.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.11.2.1"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_view_cart":"Sepetim","cart_url":"https://www.teknodayim.com/sepet/","is_cart":"","cart_redirect_after_add":"yes"};
+//# sourceURL=wc-add-to-cart-js-extra
+</script>
+<script data-wp-strategy="defer" defer id="wc-add-to-cart-js" src="https://www.teknodayim.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=11.2.1"></script>
+<script data-wp-strategy="defer" defer id="wc-js-cookie-js" src="https://www.teknodayim.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.11.2.1"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_password_show":"\u015eifreyi g\u00f6ster","i18n_password_hide":"\u015eifreyi gizle"};
+//# sourceURL=woocommerce-js-extra
+</script>
+<script data-wp-strategy="defer" defer id="woocommerce-js" src="https://www.teknodayim.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=11.2.1"></script>
+<script id="wc-cart-fragments-js-extra">
+var wc_cart_fragments_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_71e105ee9cebee1d9d14c181822f8df1","fragment_name":"wc_fragments_71e105ee9cebee1d9d14c181822f8df1","request_timeout":"5000"};
+//# sourceURL=wc-cart-fragments-js-extra
+</script>
+<script data-wp-strategy="defer" defer id="wc-cart-fragments-js" src="https://www.teknodayim.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=11.2.1"></script>
+<script id="ilm-cookie-consent-js-before">
+window.ilmCookieConfig = {"cookieName":"ilm_cookie_consent","version":"1.0","lifetime":180,"cookiePath":"\/","cookieDomain":"","secure":true,"consentMode":true,"wpConsentApi":true,"orderAttribution":true,"log":true,"logUrl":"https:\/\/www.teknodayim.com\/wp-admin\/admin-ajax.php","cleanup":{"analytics":["_ga","_ga_*","_gid","_gat*","_clck","_clsk","_hj*"],"marketing":["_fbp","_fbc","_gcl_*","_ttp","sbjs_*"],"preferences":[]},"buttonMode":"both"};
+//# sourceURL=ilm-cookie-consent-js-before
+</script>
+<script data-wp-strategy="defer" defer id="ilm-cookie-consent-js" src="https://www.teknodayim.com/wp-content/plugins/iyzico-legal-manager/assets/js/cookie-consent.js?ver=1.0.2.1790073845"></script>
+<link rel="https://api.w.org/" href="https://www.teknodayim.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.teknodayim.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.3" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://www.teknodayim.com/wp-content/uploads/2023/02/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.teknodayim.com/wp-content/uploads/2023/02/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.teknodayim.com/wp-content/uploads/2023/02/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.teknodayim.com/wp-content/uploads/2023/02/cropped-favicon-270x270.png" />
+<style>
+		.tdsb-wrap{width:100%;max-width:1500px;margin:20px auto;padding:0 18px}
+		.tdsb-head{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(320px,0.8fr);gap:16px;align-items:end;margin-bottom:18px}
+		.tdsb-head-copy{display:grid;gap:8px}
+		.tdsb-eyebrow{display:inline-flex;align-items:center;justify-content:center;width:max-content;min-height:34px;padding:0 14px;border-radius:999px;background:#fff3ea;color:#e85002;font-size:12px;font-weight:900;letter-spacing:.2px;text-transform:uppercase}
+		.tdsb-title{margin:0;font-size:34px;line-height:1.05;font-weight:1000;color:#111827}
+		.tdsb-sub{margin:0;color:#667085;font-size:15px;line-height:1.7;font-weight:700}
+		.tdsb-head-actions{display:grid;gap:10px}
+		.tdsb-search{display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:8px}
+		.tdsb-search input{min-height:42px;padding:0 14px;border:1px solid rgba(232,80,2,.22);border-radius:14px;background:#fff}
+		.tdsb-search button,.tdsb-search a,.tdsb-btn{display:inline-flex;align-items:center;justify-content:center;min-height:42px;padding:0 14px;border-radius:14px;text-decoration:none!important;font-weight:900;font-size:14px}
+		.tdsb-search button,.tdsb-btn{border:0;background:linear-gradient(135deg,#f16001,#e85002);color:#fff!important}
+		.tdsb-search a{border:1px solid rgba(232,80,2,.18);background:#fff;color:#111827!important}
+		.tdsb-filterbar{display:grid;gap:12px;margin:0 0 18px}
+		.tdsb-filter-group{display:grid;gap:8px}
+		.tdsb-filter-title{font-size:12px;font-weight:1000;text-transform:uppercase;letter-spacing:.22px;color:#667085}
+		.tdsb-filter-pills{display:flex;gap:8px;flex-wrap:wrap}
+		.tdsb-filter-pill{display:inline-flex;align-items:center;justify-content:center;min-height:34px;padding:0 12px;border-radius:999px;border:1px solid #ead8ca;background:#fff;color:#111827!important;text-decoration:none!important;font-size:12px;font-weight:900;white-space:nowrap}
+		.tdsb-filter-pill.is-active{background:#111827;border-color:#111827;color:#fff!important}
+		.tdsb-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-bottom:18px}
+		.tdsb-stat-card{padding:16px;border:1px solid #f4ddce;border-radius:20px;background:#fff;box-shadow:0 12px 30px rgba(0,0,0,.04)}
+		.tdsb-stat-label{display:block;margin-bottom:8px;color:#667085;font-size:12px;font-weight:900;text-transform:uppercase;letter-spacing:.2px}
+		.tdsb-stat-card strong{font-size:28px;line-height:1;font-weight:1000;color:#111827}
+		.tdsb-empty{padding:18px;border:1px dashed rgba(232,80,2,.24);border-radius:18px;background:#fffaf5;color:#667085;font-size:14px;font-weight:800}
+		.tdsb-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px}
+		.tdsb-card{display:flex;flex-direction:column;gap:12px;padding:12px;border:1px solid #f4ddce;border-radius:24px;background:#fff;box-shadow:0 16px 34px rgba(0,0,0,.05);min-width:0;height:100%}
+		.tdsb-card.is-recent{background:linear-gradient(180deg,#fff7f6 0%,#fff 100%);border-color:rgba(220,38,38,.20);box-shadow:0 16px 34px rgba(220,38,38,.08)}
+		.tdsb-card-top{display:flex;flex-direction:column;gap:10px;align-items:stretch;height:100%}
+		.tdsb-thumb{width:100%;aspect-ratio:1/1;border-radius:18px;overflow:hidden;background:#fff7f5;border:1px solid #f0e2d8}
+		.tdsb-thumb img{width:100%;height:100%;object-fit:cover}
+		.tdsb-card-copy{display:grid;gap:6px;min-width:0;flex:1;text-align:center}
+		.tdsb-recent-pill{display:inline-flex;align-items:center;justify-content:center;width:max-content;min-height:28px;padding:0 10px;border-radius:999px;background:#fee2e2;color:#b91c1c;font-size:11px;font-weight:1000}
+		.tdsb-recent-pill{margin:0 auto}
+		.tdsb-name{margin:0;font-size:17px;line-height:1.25;font-weight:1000;color:#111827;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+		.tdsb-meta{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;color:#667085;font-size:11px;font-weight:800}
+		.tdsb-oos-date{color:#475467;font-size:12px;font-weight:800}
+		.tdsb-card-bottom{display:flex;justify-content:stretch;margin-top:auto}
+		.tdsb-link{display:inline-flex;align-items:center;justify-content:center;min-height:40px;width:100%;padding:0 16px;border-radius:14px;background:#111827;color:#fff!important;text-decoration:none!important;font-weight:900}
+		.tdsb-pagination{display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap;margin:18px 0 8px}
+		.tdsb-pg{display:inline-flex;align-items:center;justify-content:center;min-width:42px;height:42px;padding:0 14px;border-radius:14px;border:1px solid #ead8ca;background:#fff;color:#111827!important;text-decoration:none!important;font-weight:900}
+		.tdsb-pg.is-active{background:#111827;border-color:#111827;color:#fff!important}
+		.tdsb-pg.is-disabled{opacity:.45;pointer-events:none}
+		.tdsb-note-pill{display:inline-flex;align-items:center;justify-content:center;width:max-content;min-height:28px;padding:0 10px;border-radius:999px;background:#f6f0ea;color:#475467;font-size:11px;font-weight:900;margin:0 auto}
+		.tdsb-price-pill{display:inline-flex;align-items:center;justify-content:center;width:max-content;min-height:30px;padding:0 12px;border-radius:999px;background:#fff4eb;color:#e85002;font-size:12px;font-weight:1000;margin:0 auto}
+		.tdsb-card.is-view-restock{border-color:rgba(34,197,94,.18);background:linear-gradient(180deg,#f6fff9 0%,#fff 100%)}
+		.tdsb-card.is-view-restock.is-recent{box-shadow:0 16px 34px rgba(34,197,94,.10)}
+		.tdsb-card.is-view-restock .tdsb-recent-pill{background:#dcfce7;color:#166534}
+		.tdsb-card.is-view-price{border-color:rgba(59,130,246,.18);background:linear-gradient(180deg,#f7fbff 0%,#fff 100%)}
+		.tdsb-card.is-view-price.is-recent{box-shadow:0 16px 34px rgba(59,130,246,.10)}
+		.tdsb-card.is-view-price .tdsb-recent-pill{background:#dbeafe;color:#1d4ed8}
+		.tdsb-float{position:fixed;top:50%;right:max(14px,calc((100vw - 1500px)/2 + 14px));bottom:auto;transform:translateY(-50%);z-index:99999;display:flex;flex-direction:column;gap:8px;align-items:flex-end}
+		.tdsb-float-links{display:flex;flex-direction:column;gap:8px;padding:0;background:transparent;border:0;border-radius:0;box-shadow:none;backdrop-filter:none}
+		.tdsb-float-toggle{display:none;position:relative;width:48px;height:48px;border-radius:50%;border:0;background:#111827;color:#fff;cursor:pointer;box-shadow:0 10px 24px rgba(15,23,42,.28);align-items:center;justify-content:center;font-size:20px;line-height:1;-webkit-tap-highlight-color:transparent}
+		.tdsb-float-toggle-badge{position:absolute;top:-4px;right:-4px;min-width:20px;height:20px;padding:0 5px;border-radius:999px;background:#e85002;color:#fff;border:2px solid #fff;display:inline-flex;align-items:center;justify-content:center;font-size:10px;font-weight:1000;line-height:1}
+		.tdsb-float-toggle-badge[data-empty="1"]{display:none}
+		.tdsb-float-link{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;width:62px;min-height:62px;padding:8px 6px;border-radius:18px;background:#fff;color:#111827!important;text-decoration:none!important;font-size:10px;font-weight:1000;line-height:1.1;text-align:center;border:1px solid rgba(17,24,39,.08);box-shadow:0 8px 18px rgba(15,23,42,.12);transition:transform .18s ease,box-shadow .18s ease,background .18s ease,color .18s ease,border-color .18s ease;-webkit-tap-highlight-color:transparent}
+		.tdsb-float-link:hover{transform:translateX(-3px);box-shadow:0 14px 24px rgba(15,23,42,.18)}
+		.tdsb-float-icon{font-size:22px;line-height:1;display:block}
+		.tdsb-float-tip{font-size:9px;font-weight:900;letter-spacing:.2px;text-transform:uppercase;opacity:.85}
+		.tdsb-float-link.is-tone-restock{background:linear-gradient(180deg,#ff7a1a 0%,#e85002 100%);color:#fff!important;border-color:transparent}
+		.tdsb-float-link.is-tone-oos{background:#111827;color:#fff!important;border-color:transparent}
+		.tdsb-float-link.is-tone-price{background:#fff;color:#e85002!important;border-color:rgba(232,80,2,.22)}
+		.tdsb-float-link.is-current{transform:translateX(-5px);box-shadow:0 16px 26px rgba(15,23,42,.2);outline:2px solid rgba(255,255,255,.85)}
+		.tdsb-float-link.is-current.is-tone-price{background:#111827;color:#fff!important;border-color:#111827}
+		.tdsb-float-link.is-alert{animation:tdsbPulse 1.85s infinite}
+		.tdsb-badge{position:absolute;top:-7px;right:-7px;min-width:22px;height:22px;padding:0 6px;border-radius:999px;background:#111827;color:#fff;border:2px solid #fff;display:inline-flex;align-items:center;justify-content:center;font-size:10.5px;font-weight:1000;box-shadow:0 6px 14px rgba(0,0,0,.18);line-height:1}
+		.tdsb-badge[data-empty="1"]{display:none}
+		.tdsb-float-link.is-tone-restock .tdsb-badge{background:#111827}
+		.tdsb-float-link.is-tone-oos .tdsb-badge{background:#ff5a36}
+		.tdsb-float-link.is-tone-price .tdsb-badge{background:#e85002}
+		@keyframes tdsbPulse{0%{transform:scale(1);box-shadow:0 8px 18px rgba(15,23,42,.12),0 0 0 0 rgba(232,80,2,.24)}70%{transform:scale(1.05);box-shadow:0 14px 24px rgba(15,23,42,.18),0 0 0 12px rgba(232,80,2,0)}100%{transform:scale(1);box-shadow:0 8px 18px rgba(15,23,42,.12),0 0 0 0 rgba(232,80,2,0)}}
+		@media(max-width:1560px){.tdsb-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+		@media(max-width:1280px){.tdsb-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+		@media(max-width:1024px){.tdsb-head{grid-template-columns:1fr}.tdsb-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.tdsb-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+		@media(max-width:768px){
+			.tdsb-wrap{padding:0 12px}
+			.tdsb-search{grid-template-columns:1fr}
+			.tdsb-stats{grid-template-columns:1fr}
+			.tdsb-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+			.tdsb-name{font-size:15px}
+			/* Mobile: tiny FAB cluster bottom-right, expandable */
+			.tdsb-float{right:12px;left:auto;top:auto;bottom:14px;transform:none;flex-direction:column-reverse;gap:8px;align-items:flex-end}
+			.tdsb-float-toggle{display:inline-flex}
+			.tdsb-float[data-collapsed="1"] .tdsb-float-link{opacity:0;pointer-events:none;transform:scale(.5) translateY(8px);transition:transform .2s ease,opacity .2s ease}
+			.tdsb-float[data-collapsed="0"] .tdsb-float-link{opacity:1;pointer-events:auto;transform:scale(1) translateY(0);transition:transform .25s cubic-bezier(.18,.89,.32,1.28),opacity .2s ease}
+			.tdsb-float-link{width:54px;min-height:54px;padding:6px 4px;border-radius:16px;font-size:9px;gap:1px}
+			.tdsb-float-icon{font-size:19px}
+			.tdsb-float-tip{font-size:8px}
+			.tdsb-badge{top:-6px;right:-6px;min-width:19px;height:19px;font-size:9.5px}
+		}
+		@media(max-width:560px){.tdsb-grid{grid-template-columns:1fr}}
+		@media(max-width:380px){
+			.tdsb-float{right:10px;bottom:12px}
+			.tdsb-float-toggle{width:44px;height:44px;font-size:18px}
+			.tdsb-float-link{width:50px;min-height:50px;border-radius:14px}
+			.tdsb-float-icon{font-size:17px}
+		}
+		</style>	<style id="td-mobile-polish-css">
+		/* 2.a) Badge konum override — eski .outofstock::before kuralını ezeriz */
+		.woocommerce ul.products li.product.outofstock::before,
+		.woocommerce-page ul.products li.product.outofstock::before,
+		.products .product.outofstock::before,
+		.product-grid-item.outofstock::before,
+		.type-product.outofstock::before {
+			top: 8px !important;
+			left: 8px !important;
+			right: auto !important;
+			z-index: 9 !important;
+			min-height: 22px !important;
+			padding: 0 9px !important;
+			font-size: 10px !important;
+			letter-spacing: .15px !important;
+			background: #fee2e2 !important;
+			color: #b91c1c !important;
+			border-radius: 999px !important;
+			box-shadow: 0 4px 12px rgba(220,38,38,.16) !important;
+			max-width: calc(100% - 16px);
+			pointer-events: none;
+		}
+
+		/* 2.b) Title'ın badge'in altına itilmesi için resim alanına min-yükseklik
+		   ve title üstüne hafif boşluk veriyoruz (badge resim üstüne biner). */
+		.woocommerce ul.products li.product.outofstock .product-thumbnail,
+		.woocommerce ul.products li.product.outofstock .product-image,
+		.products .product.outofstock .product-thumbnail,
+		.products .product.outofstock .product-image,
+		.product-grid-item.outofstock .product-thumbnail,
+		.product-grid-item.outofstock .product-image {
+			position: relative;
+		}
+
+		/* 2.c) Mobilde badge daha kompakt */
+		@media (max-width: 480px) {
+			.woocommerce ul.products li.product.outofstock::before,
+			.woocommerce-page ul.products li.product.outofstock::before,
+			.products .product.outofstock::before,
+			.product-grid-item.outofstock::before,
+			.type-product.outofstock::before {
+				top: 6px !important;
+				left: 6px !important;
+				min-height: 20px !important;
+				padding: 0 7px !important;
+				font-size: 9px !important;
+			}
+		}
+
+		/* 2.d) Search-clean v2 kart badge'i — başlık üzerine binmesin */
+		.td-search-clean-v2-card.is-out-of-stock::before {
+			align-self: flex-start;
+			margin-bottom: 8px !important;
+			background: #fee2e2 !important;
+			color: #b91c1c !important;
+		}
+
+		/* ============================================================
+		 *  3) Genel mobil cilalama
+		 * ============================================================ */
+		@media (max-width: 480px) {
+			html, body { max-width: 100vw; overflow-x: hidden; }
+
+			/* Yatay scroll tetikleyen sık karşılaşılan WooCommerce öğeleri */
+			.woocommerce .products,
+			.woocommerce-page .products,
+			.woocommerce-cart-form,
+			.woocommerce-checkout {
+				max-width: 100% !important;
+				overflow-x: hidden;
+			}
+
+			/* Ürün kartlarındaki başlıkların kesilmesini önle */
+			.woocommerce ul.products li.product .woocommerce-loop-product__title,
+			.woocommerce-page ul.products li.product .woocommerce-loop-product__title,
+			.products .product .woocommerce-loop-product__title,
+			.product-grid-item .woocommerce-loop-product__title {
+				font-size: 13px !important;
+				line-height: 1.3 !important;
+				display: -webkit-box;
+				-webkit-line-clamp: 2;
+				-webkit-box-orient: vertical;
+				overflow: hidden;
+				min-height: 2.6em;
+			}
+
+			/* Cart, Checkout butonlarının taşmaması */
+			.button, .wc-block-components-button {
+				max-width: 100%;
+				white-space: normal;
+			}
+		}
+
+		/* 4) Misafir kullanıcı için "kilit" panelini gizle (eğer eski plugin
+		      yine de çıkartırsa) */
+		body.td-product-guest-open .td-product-access-box { display: none !important; }
+	</style>
+	</head>
+<body id="blog" class="error404 wp-embed-responsive wp-theme-teknodayim-theme theme-teknodayim-theme woocommerce-no-js td-theme td-theme-footer-on">
+<a class="skip-link screen-reader-text" href="#site-content">İçeriğe geç</a><div class="page-wrap">
+	<header class="td-soft-header site-header" id="masthead">
+	<div class="td-soft-header-shell">
+		<div class="td-soft-brand">
+			<a class="td-soft-logo-link" href="https://www.teknodayim.com/" rel="home" aria-label="Teknodayım"><img class="td-soft-logo" src="https://www.teknodayim.com/wp-content/uploads/2026/04/comp_logo_td.png" alt="Teknodayım" height="60" decoding="async" fetchpriority="high"></a>		</div>
+
+		<nav class="td-soft-sticky-nav" aria-label="Hızlı menü">
+											<a class="td-soft-nav-link" href="https://www.teknodayim.com/">
+					<span class="td-soft-nav-icon" aria-hidden="true">⌂</span>
+					<span class="td-soft-nav-label">Anasayfa</span>
+				</a>
+											<a class="td-soft-nav-link" href="https://www.teknodayim.com/magaza/">
+					<span class="td-soft-nav-icon" aria-hidden="true">⌕</span>
+					<span class="td-soft-nav-label">Mağaza</span>
+				</a>
+											<a class="td-soft-nav-link" href="https://www.teknodayim.com/kategori/">
+					<span class="td-soft-nav-icon" aria-hidden="true">▦</span>
+					<span class="td-soft-nav-label">Kategoriler</span>
+				</a>
+											<a class="td-soft-nav-link is-fast" href="https://www.teknodayim.com/#tdHeroQuick">
+					<span class="td-soft-nav-icon" aria-hidden="true">+</span>
+					<span class="td-soft-nav-label">Hızlı Sipariş Ver</span>
+				</a>
+					</nav>
+
+		<div class="td-soft-actions">
+			<a class="td-soft-action is-account" href="https://www.teknodayim.com/hesabim/" aria-label="Hesabım" title="Hesabım">
+				<span class="td-soft-icon"><svg viewBox="0 0 24 24" focusable="false" aria-hidden="true"><path d="M20 21a8 8 0 0 0-16 0"/><circle cx="12" cy="7" r="4"/></svg></span>
+			</a>
+
+			<a class="td-soft-action is-cart" href="https://www.teknodayim.com/sepet/" aria-label="Sepetim" title="Sepetim">
+				<span class="td-soft-icon"><svg viewBox="0 0 24 24" focusable="false" aria-hidden="true"><path d="M6 8h12l-1 13H7L6 8Z"/><path d="M9 8a3 3 0 0 1 6 0"/></svg></span>
+				<span class="td-soft-badge" data-empty="1">0</span>			</a>
+
+			<a class="td-soft-action is-primary" href="https://www.teknodayim.com/odeme/" aria-label="Ödeme" title="Ödeme">
+				<span class="td-soft-icon"><svg viewBox="0 0 24 24" focusable="false" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 10h18"/><path d="M7 15h4"/></svg></span>
+			</a>
+		</div>
+	</div>
+</header>
+	<div id="site-content" class="site-content container main-container">
+		<div class="page-area">
+			<main id="main" class="site-main">
+	<section class="main-content-page td-card td-error-404">
+		<span class="td-kicker">404</span>
+		<h1 class="page-title">Sayfa bulunamadı</h1>
+		<p>Aradığınız sayfa taşınmış veya kaldırılmış olabilir.</p>
+		<div class="td-error-actions">
+			<a class="td-btn td-btn-primary" href="https://www.teknodayim.com/magaza/">Mağazaya git</a>
+			<a class="td-btn" href="https://www.teknodayim.com/">Anasayfa</a>
+		</div>
+		<form role="search" method="get" class="search-form" action="https://www.teknodayim.com/">
+				<label>
+					<span class="screen-reader-text">Arama:</span>
+					<input type="search" class="search-field" placeholder="Ara &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Ara" />
+			</form>	</section>
+</main>
+		</div><!-- .page-area -->
+	</div><!-- #site-content -->
+</div><!-- .page-wrap -->
+
+<footer class="td-global-footer td-theme-footer" role="contentinfo">
+	<div class="td-global-footer-shell">
+		<div class="td-global-footer-main">
+			<div class="td-global-footer-brand">
+				<a class="td-global-footer-logo" href="https://www.teknodayim.com/" aria-label="Teknodayim">
+					<img src="https://www.teknodayim.com/wp-content/uploads/2026/04/comp_logo_td.png" alt="Teknodayim" height="34" loading="lazy" decoding="async">
+				</a>
+				<div>
+					<span class="td-global-footer-badge">B2B Toptan Sipariş</span>
+					<p class="td-global-footer-text">Hızlı sipariş, net ürün yönetimi ve kolay tekrar sipariş.</p>
+				</div>
+			</div>
+
+			<nav class="td-global-footer-links" aria-label="Footer menü">
+													<a href="https://www.teknodayim.com/">Anasayfa</a>
+					<a href="https://www.teknodayim.com/magaza/">Mağaza</a>
+					<a href="https://www.teknodayim.com/kategori/">Kategoriler</a>
+					<a href="https://www.teknodayim.com/hesabim/">Hesabım</a>
+					<a href="https://www.teknodayim.com/sepet/">Sepet</a>
+					<a href="https://www.teknodayim.com/odeme/">Ödeme</a>
+							</nav>
+
+			<div class="td-global-footer-contact">
+				<a class="td-global-footer-phone" href="tel:+905318228714">+90 531 822 87 14</a>
+				<a class="td-global-footer-whatsapp" href="https://wa.me/905318228714" target="_blank" rel="noopener">WhatsApp</a>
+			</div>
+		</div>
+
+					<nav class="td-footer-legal" aria-label="Yasal bağlantılar">
+				<ul class="td-footer-legal__list">
+											<li><a href="https://www.teknodayim.com/iletisim/">İletişim</a></li>
+											<li><a href="https://www.teknodayim.com/gizlilik-politikasi/">Gizlilik Politikası</a></li>
+											<li><a href="https://www.teknodayim.com/kvkk-aydinlatma-metni/">KVKK</a></li>
+											<li><a href="https://www.teknodayim.com/cerez-politikasi/">Çerez Politikası</a></li>
+											<li><a href="https://www.teknodayim.com/teslimat-ve-iade/">Teslimat ve İade</a></li>
+											<li><a href="https://www.teknodayim.com/mesafeli-satis-sozlesmesi/">Mesafeli Satış Sözleşmesi</a></li>
+											<li><a href="https://www.teknodayim.com/kullanim-kosullari/">Kullanım Koşulları</a></li>
+											<li><a href="https://www.teknodayim.com/on-bilgilendirme-formu/">Ön Bilgilendirme</a></li>
+																						<li><button type="button" class="td-footer-legal__cookie" data-ilm-open-preferences="1" aria-haspopup="dialog" aria-controls="ilm-cookie-modal">Çerez Tercihleri</button></li>
+									</ul>
+			</nav>
+		
+		<div class="td-global-footer-bottom">
+			<div class="td-global-footer-copy">&copy; 2026 Teknodayim. Tüm hakları saklıdır.</div>
+		</div>
+	</div>
+</footer>
+        <div id="td-upsell-overlay" class="td-upsell-overlay" aria-hidden="true">
+            <div class="td-upsell-modal" role="dialog" aria-modal="true" aria-labelledby="td-upsell-title">
+                <button type="button" class="td-upsell-close" aria-label="Kapat">×</button>
+
+                <div class="td-upsell-content">
+                    <div class="td-upsell-image">
+                        <img src="https://www.teknodayim.com/wp-content/plugins/teknodayim-upsell-popup/assets/hediye-paketi-real.png?ver=1.4.2"
+                             alt="Küçük Hediye Paketi"
+                             class="td-upsell-product-img"
+                             loading="eager">
+                    </div>
+
+                    <div class="td-upsell-copy">
+                        <h3 id="td-upsell-title">Bu ürüne ekleyelim mi?</h3>
+                        <div class="td-upsell-name">Küçük Hediye Paketi</div>
+                        <div class="td-upsell-price">+<span class="woocommerce-Price-amount amount">15.00<span class="woocommerce-Price-currencySymbol" dir="auto">&#8378;</span></span></div>
+                        <div class="td-upsell-note">Seçerseniz bu ek ürün, satın aldığınız ürünün altında gösterilir.</div>
+                    </div>
+                </div>
+
+                <div class="td-upsell-actions">
+                    <button type="button" class="td-upsell-btn td-upsell-btn-add">Evet, bu ürüne ekle</button>
+                    <button type="button" class="td-upsell-btn td-upsell-btn-skip">Hayır</button>
+                </div>
+            </div>
+        </div>
+        <div class="ilm-scope ilm-footer-bar" role="contentinfo" aria-label="Yasal bilgiler">
+	<div class="ilm-footer-bar__inner">
+		<div class="ilm-footer-bar__links"><nav class="ilm-scope ilm-legal-links ilm-legal-links--inline ilm-legal-links--align-center " aria-label="Yasal bağlantılar"><ul class="ilm-legal-links__list"><li class="ilm-legal-links__item"><a class="ilm-legal-links__link" href="https://www.teknodayim.com/iletisim/">İletişim</a></li><li class="ilm-legal-links__item"><a class="ilm-legal-links__link" href="https://www.teknodayim.com/gizlilik-politikasi/">Gizlilik Politikası</a></li><li class="ilm-legal-links__item"><a class="ilm-legal-links__link" href="https://www.teknodayim.com/kvkk-aydinlatma-metni/">KVKK</a></li><li class="ilm-legal-links__item"><a class="ilm-legal-links__link" href="https://www.teknodayim.com/cerez-politikasi/">Çerez Politikası</a></li><li class="ilm-legal-links__item"><a class="ilm-legal-links__link" href="https://www.teknodayim.com/teslimat-ve-iade/">Teslimat ve İade</a></li><li class="ilm-legal-links__item"><a class="ilm-legal-links__link" href="https://www.teknodayim.com/mesafeli-satis-sozlesmesi/">Mesafeli Satış Sözleşmesi</a></li><li class="ilm-legal-links__item"><a class="ilm-legal-links__link" href="https://www.teknodayim.com/kullanim-kosullari/">Kullanım Koşulları</a></li><li class="ilm-legal-links__item"><button type="button" class="ilm-cookie-preferences-link ilm-legal-links__link" data-ilm-open-preferences="1">Çerez Tercihleri</button></li></ul></nav></div>
+	</div>
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/teknodayim-theme/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<style>
+	                @media screen and (max-width: 380px) {
+                        ._1xrVL7npYN5CKybp32heXk {
+		                    position: fixed;
+			                bottom: 0!important;
+    		                top: unset;
+    		                left: 0;
+    		                width: 100%;
+                        }
+                    }
+	            </style>	<script>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script id="teknodayim-upsell-popup-js" src="https://www.teknodayim.com/wp-content/plugins/teknodayim-upsell-popup/assets/upsell.js?ver=1.4.2"></script>
+<script data-wp-strategy="defer" defer id="td-theme-main-js" src="https://www.teknodayim.com/wp-content/themes/teknodayim-theme/assets/js/main.js?ver=1.3.0.1791314483"></script>
+<script id="sourcebuster-js-js" src="https://www.teknodayim.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=11.2.1"></script>
+<script id="wc-order-attribution-js-extra">
+var wc_order_attribution = {"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"base64":false,"ajaxurl":"https://www.teknodayim.com/wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":false},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+//# sourceURL=wc-order-attribution-js-extra
+</script>
+<script id="wc-order-attribution-js" src="https://www.teknodayim.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=11.2.1"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.teknodayim.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.3"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://www.teknodayim.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+<div id="ilm-cookie-banner" class="ilm-cookie-banner ilm-cookie-banner--center" role="region" aria-labelledby="ilm-cookie-banner-title" aria-describedby="ilm-cookie-banner-text" data-nosnippet hidden>
+	<div class="ilm-cookie-banner__card">
+		<h2 id="ilm-cookie-banner-title" class="ilm-cookie-banner__title ilm-sr-only">
+			Çerez bildirimi		</h2>
+		<p id="ilm-cookie-banner-text" class="ilm-cookie-banner__text">Sitemizde deneyiminizi iyileştirmek için çerezler kullanıyoruz. Zorunlu çerezler her zaman aktiftir. Tercihlerinizi <a href="https://www.teknodayim.com/gizlilik-politikasi/" class="ilm-cookie-banner__link">Gizlilik Politikası</a> ve <a href="https://www.teknodayim.com/cerez-politikasi/" class="ilm-cookie-banner__link">Çerez Politikası</a> sayfalarımızdan inceleyebilirsiniz.</p>
+		<div class="ilm-cookie-banner__actions">
+			<button type="button" class="ilm-btn ilm-btn--secondary" data-ilm-action="reject">Reddet</button>
+			<button type="button" class="ilm-btn ilm-btn--secondary" data-ilm-action="manage" aria-haspopup="dialog" aria-controls="ilm-cookie-modal">Tercihleri Yönet</button>
+			<button type="button" class="ilm-btn ilm-btn--primary" data-ilm-action="accept">Kabul Et</button>
+		</div>
+	</div>
+</div>
+
+<div id="ilm-cookie-modal" class="ilm-cookie-modal" data-nosnippet hidden>
+	<div class="ilm-cookie-modal__overlay" data-ilm-action="close"></div>
+	<div class="ilm-cookie-modal__dialog" role="dialog" aria-modal="true" aria-labelledby="ilm-cookie-modal-title" tabindex="-1">
+		<div class="ilm-cookie-modal__header">
+			<h2 id="ilm-cookie-modal-title" class="ilm-cookie-modal__title">Çerez Tercihleri</h2>
+			<button type="button" class="ilm-cookie-modal__close" data-ilm-action="close" aria-label="Kapat">
+				<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg>
+			</button>
+		</div>
+
+		<div class="ilm-cookie-modal__body">
+			<p class="ilm-cookie-modal__intro">
+				Aşağıdan hangi çerez kategorilerine izin verdiğinizi seçebilirsiniz. Zorunlu çerezler sitenin çalışması için gereklidir ve kapatılamaz. Tercihlerinizi dilediğiniz zaman &quot;Çerez Tercihleri&quot; bağlantısından değiştirebilirsiniz.									<a href="https://www.teknodayim.com/cerez-politikasi/">Çerez Politikası</a>
+							</p>
+
+			<div class="ilm-cookie-cat">
+				<div class="ilm-cookie-cat__head">
+					<span class="ilm-cookie-cat__title" id="ilm-cc-necessary-title">Zorunlu Çerezler</span>
+					<span class="ilm-cookie-cat__badge">Her zaman aktif</span>
+				</div>
+				<p class="ilm-cookie-cat__desc">Oturum yönetimi, sepet, güvenlik ve çerez tercihlerinizin hatırlanması gibi sitenin temel işlevleri için gereklidir. Bu çerezler kapatılamaz.</p>
+			</div>
+
+							<div class="ilm-cookie-cat">
+					<div class="ilm-cookie-cat__head">
+						<label class="ilm-cookie-cat__title" for="ilm-cc-analytics">Analitik Çerezler</label>
+						<span class="ilm-switch">
+							<input type="checkbox" id="ilm-cc-analytics" class="ilm-switch__input" role="switch" data-ilm-category="analytics" aria-describedby="ilm-cc-analytics-desc">
+							<span class="ilm-switch__track" aria-hidden="true"><span class="ilm-switch__thumb"></span></span>
+						</span>
+					</div>
+					<p class="ilm-cookie-cat__desc" id="ilm-cc-analytics-desc">Ziyaretçilerin siteyi nasıl kullandığını anonim ve toplu olarak ölçerek sitemizi geliştirmemize yardımcı olur (örn. Google Analytics).</p>
+				</div>
+							<div class="ilm-cookie-cat">
+					<div class="ilm-cookie-cat__head">
+						<label class="ilm-cookie-cat__title" for="ilm-cc-marketing">Pazarlama Çerezleri</label>
+						<span class="ilm-switch">
+							<input type="checkbox" id="ilm-cc-marketing" class="ilm-switch__input" role="switch" data-ilm-category="marketing" aria-describedby="ilm-cc-marketing-desc">
+							<span class="ilm-switch__track" aria-hidden="true"><span class="ilm-switch__thumb"></span></span>
+						</span>
+					</div>
+					<p class="ilm-cookie-cat__desc" id="ilm-cc-marketing-desc">İlgi alanlarınıza uygun reklamlar göstermek ve kampanyaların etkinliğini ölçmek için kullanılır (örn. Meta Pixel, Google Ads).</p>
+				</div>
+							<div class="ilm-cookie-cat">
+					<div class="ilm-cookie-cat__head">
+						<label class="ilm-cookie-cat__title" for="ilm-cc-preferences">Tercih Çerezleri</label>
+						<span class="ilm-switch">
+							<input type="checkbox" id="ilm-cc-preferences" class="ilm-switch__input" role="switch" data-ilm-category="preferences" aria-describedby="ilm-cc-preferences-desc">
+							<span class="ilm-switch__track" aria-hidden="true"><span class="ilm-switch__thumb"></span></span>
+						</span>
+					</div>
+					<p class="ilm-cookie-cat__desc" id="ilm-cc-preferences-desc">Dil, bölge ve görüntüleme gibi tercihlerinizi hatırlayarak size kişiselleştirilmiş bir deneyim sunar.</p>
+				</div>
+					</div>
+
+		<div class="ilm-cookie-modal__footer">
+			<button type="button" class="ilm-btn ilm-btn--secondary" data-ilm-action="reject">Tümünü Reddet</button>
+			<button type="button" class="ilm-btn ilm-btn--secondary" data-ilm-action="save">Seçimi Kaydet</button>
+			<button type="button" class="ilm-btn ilm-btn--primary" data-ilm-action="accept">Tümünü Kabul Et</button>
+		</div>
+	</div>
+</div>
+
+	<button type="button" id="ilm-cookie-fab" class="ilm-cookie-fab ilm-cookie-fab--left" data-ilm-open-preferences="1" aria-label="Çerez Tercihleri" title="Çerez Tercihleri" hidden>
+		<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false">
+			<path fill="currentColor" d="M12 2a10 10 0 1 0 10 10 4 4 0 0 1-5-5 4 4 0 0 1-5-5zm-3.5 7a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zm2 6a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zm5-1a1 1 0 1 1 0 2 1 1 0 0 1 0-2zM7 14.5a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+		</svg>
+	</button>
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 7.9.1 on 2026-10-19 19:23:39 -->
