@@ -1,0 +1,67 @@
+name: Fetch Teknodayim Images
+on:
+  push:
+    branches: [arena/04549a50-halilsert-com]
+    paths:
+      - '.github/workflows/fetch-teknodayim.yml'
+  workflow_dispatch:
+  workflow_call:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: arena/04549a50-halilsert-com
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Download images
+        run: |
+          mkdir -p v390-tiras-makinesi-fotograflar
+          urls=(
+            "https://www.teknodayim.com/wp-content/uploads/2025/07/pistonlu-ve-orgulu-ag-baslikli-kart-ti-91f05.png"
+            "https://www.teknodayim.com/wp-content/uploads/2025/07/abs-govdeli-super-ince-elektrikli-saka-613b7.png"
+            "https://www.teknodayim.com/wp-content/uploads/2025/07/abs-govdeli-super-ince-elektrikli-saka-30f22.png"
+            "https://www.teknodayim.com/wp-content/uploads/2025/07/abs-govdeli-super-ince-elektrikli-saka-07b91.png"
+            "https://www.teknodayim.com/wp-content/uploads/2025/07/abs-govdeli-super-ince-elektrikli-saka-ca3b.png"
+          )
+          i=1
+          for url in "${urls[@]}"; do
+            fname=$(basename "$url")
+            out="v390-tiras-makinesi-fotograflar/V390-$(printf %02d $i)-$fname"
+            echo "Downloading $url -> $out"
+            curl -L -A "Mozilla/5.0" "$url" -o "$out" -v || wget -O "$out" "$url" || echo "failed $url"
+            ls -lh "$out" || true
+            i=$((i+1))
+            sleep 1
+          done
+          # Also try to discover additional images via scraping page
+          echo "Trying to scrape page for more images"
+          curl -L -A "Mozilla/5.0" "https://www.teknodayim.com/v390-tiras-makinesi/" -o /tmp/page.html || true
+          grep -oE "https://www.teknodayim.com/wp-content/uploads/[^\"]+\.(png|jpg|jpeg|webp)" /tmp/page.html | sort -u > /tmp/found.txt || true
+          cat /tmp/found.txt || true
+          # Download any not yet downloaded
+          while read -r u; do
+            base=$(basename "$u")
+            if [ ! -f "v390-tiras-makinesi-fotograflar/$base" ]; then
+              echo "Downloading extra $u"
+              curl -L -A "Mozilla/5.0" "$u" -o "v390-tiras-makinesi-fotograflar/$base" || true
+            fi
+          done < /tmp/found.txt
+          ls -lh v390-tiras-makinesi-fotograflar/
+          file v390-tiras-makinesi-fotograflar/* || true
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add v390-tiras-makinesi-fotograflar/
+          git status
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "feat: add V390 tıraş makinesi ürün fotoğrafları"
+          git push origin arena/04549a50-halilsert-com
