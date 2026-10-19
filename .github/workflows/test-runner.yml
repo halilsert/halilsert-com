@@ -1,0 +1,7 @@
+name: Test Runner
+on: push
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "hello from runner" && curl -I https://www.teknodayim.com/wp-content/uploads/2025/07/pistonlu-ve-orgulu-ag-baslikli-kart-ti-91f05.png -v
