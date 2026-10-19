@@ -1,0 +1,65 @@
+name: Fetch Teknodayim Images
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Download images
+        run: |
+          mkdir -p /tmp/v390
+          urls=(
+            "https://www.teknodayim.com/wp-content/uploads/2025/07/pistonlu-ve-orgulu-ag-baslikli-kart-ti-91f05.png"
+            "https://www.teknodayim.com/wp-content/uploads/2025/07/abs-govdeli-super-ince-elektrikli-saka-613b7.png"
+            "https://www.teknodayim.com/wp-content/uploads/2025/07/abs-govdeli-super-ince-elektrikli-saka-30f22.png"
+            "https://www.teknodayim.com/wp-content/uploads/2025/07/abs-govdeli-super-ince-elektrikli-saka-07b91.png"
+            "https://www.teknodayim.com/wp-content/uploads/2025/07/abs-govdeli-super-ince-elektrikli-saka-ca3b.png"
+          )
+          i=1
+          for url in "${urls[@]}"; do
+            fname=$(basename "$url")
+            out="/tmp/v390/V390-$(printf %02d $i)-$fname"
+            mkdir -p /tmp/v390
+            echo "Downloading $url -> $out"
+            curl -L -A "Mozilla/5.0" "$url" -o "$out" -v || wget -O "$out" "$url" || echo "failed $url"
+            ls -lh "$out" || true
+            i=$((i+1))
+            sleep 1
+          done
+          curl -L -A "Mozilla/5.0" "https://www.teknodayim.com/v390-tiras-makinesi/" -o /tmp/page.html || true
+          grep -oE "https://www.teknodayim.com/wp-content/uploads/[^\"]+\.(png|jpg|jpeg|webp)" /tmp/page.html | sort -u > /tmp/found.txt || true
+          cat /tmp/found.txt || true
+          while read -r u; do
+            base=$(basename "$u")
+            if [ ! -f "/tmp/v390/$base" ]; then
+              echo "Downloading extra $u"
+              curl -L -A "Mozilla/5.0" "$u" -o "/tmp/v390/$base" || true
+            fi
+          done < /tmp/found.txt
+          ls -lh /tmp/v390/
+      - name: Commit to arena branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin arena/04549a50-halilsert-com:arena-branch || true
+          git checkout arena-branch || git checkout -b arena-branch
+          mkdir -p v390-tiras-makinesi-fotograflar
+          cp -r /tmp/v390/* v390-tiras-makinesi-fotograflar/ 2>&1 || true
+          git add v390-tiras-makinesi-fotograflar/
+          git status
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "feat: add V390 tıraş makinesi ürün fotoğrafları (via main workflow)"
+          git push origin HEAD:arena/04549a50-halilsert-com
