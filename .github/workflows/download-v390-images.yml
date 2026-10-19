@@ -1,0 +1,40 @@
+name: Download V390 photos
+on:
+  push:
+    branches: [arena/2b51f456-halilsert-com]
+    paths: ['.github/workflows/download-v390-images.yml']
+permissions:
+  contents: write
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download five original gallery photos
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p v390-tiras-makinesi-fotograflar
+          names=(
+            pistonlu-ve-orgulu-ag-baslikli-kart-ti-91f05.png
+            abs-govdeli-super-ince-elektrikli-saka-613b7.png
+            abs-govdeli-super-ince-elektrikli-saka-30f22.png
+            abs-govdeli-super-ince-elektrikli-saka-07b91.png
+            abs-govdeli-super-ince-elektrikli-saka-ca3b.png
+          )
+          for name in "${names[@]}"; do
+            dest="v390-tiras-makinesi-fotograflar/$name"
+            curl --fail --location --retry 3 --max-time 40 \
+              --user-agent 'Mozilla/5.0' \
+              "https://www.teknodayim.com/wp-content/uploads/2025/07/$name" \
+              --output "$dest"
+            file "$dest" | grep -q 'PNG image data'
+          done
+          ls -lh v390-tiras-makinesi-fotograflar/
+      - name: Save photos on this branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add v390-tiras-makinesi-fotograflar/
+          git commit -m 'Add original V390 product photos'
+          git push origin arena/2b51f456-halilsert-com
